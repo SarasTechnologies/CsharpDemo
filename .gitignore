@@ -5,3 +5,5 @@
 /.vs
 /bin/Debug/net6.0
 /obj
+/ClassDemo/bin/Debug/net6.0
+/ClassDemo/obj
